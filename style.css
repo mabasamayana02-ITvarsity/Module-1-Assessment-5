@@ -21,4 +21,7 @@
        background-color: cornflowerblue;
        padding-top: 12px;
 }
+.wid img{
+    width: 100%;
+}
 
